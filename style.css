@@ -1,0 +1,39 @@
+.outline{
+    width: 80%;
+    height: 750px;
+    margin: 6vh;
+    padding: 0%;
+    border: 2px solid;
+}
+.outline .logo{
+    height: 80px;
+    display: grid;
+    grid-template-columns :auto auto;
+    margin-bottom: -7%;
+    /*gap: 20vw;*/
+}
+.edu{
+    height: 130px;
+}
+.skill{
+    height: 120px;
+}
+.project{
+    height: 100px;
+}
+.strenth{
+    height: 100px;
+}
+
+.outline .ed{
+    width: 100%;
+    text-align: center;
+    border: 1px solid ;
+    color: brown;
+}
+.outline .sign{
+    display:flex;
+}
+#footer{
+    height: 100px;
+}
